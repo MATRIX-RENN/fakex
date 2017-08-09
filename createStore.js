@@ -1,7 +1,6 @@
 /**
  * Created by Lever on 16/11/9.
  */
-const _ = require("../util/util");
 
 module.exports = (reducer, preloadedState) => {
     let currentState = preloadedState,
